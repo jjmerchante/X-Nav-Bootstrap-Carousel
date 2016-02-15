@@ -1,0 +1,23 @@
+.img-responsive2 {
+    display: inline-block;
+    max-width: 60%;
+    height: auto;
+}
+.login {
+    padding: 15px;
+    min-width: 250px;
+}
+
+body {
+    background-image: url(/images/Imagen-de-fondo-html.jpg);
+}
+
+.header {
+  background-color: rgb(232,232,232);
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover {
+  background-color: rgb(200, 200, 200);
+}
